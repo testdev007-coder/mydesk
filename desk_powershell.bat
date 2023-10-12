@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File .\rust_desk.ps1
